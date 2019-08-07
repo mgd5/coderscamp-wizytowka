@@ -117,7 +117,7 @@ body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  background: url("static/header/marble_rose-TO.jpg") no-repeat;
+  background: url("static/header/marble.jpg") no-repeat;
   background-size: cover;
   margin-bottom: 2rem;
 }
